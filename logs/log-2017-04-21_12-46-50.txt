@@ -1,0 +1,25 @@
+Started at: 2017-04-21 12:46:50
+Parameters: Array
+(
+    [categoryidFilter] => 279
+    [categorypidFilter] => 
+    [FilterPrice] => 
+    [FilterTitle] => 
+    [FilterVendor] => 
+    [offer] => so24
+    [replace_find_text] => Кошелек GOSHA
+    [replace_text] => test
+    [ps_download_images] => 0
+    [ps_delete_prod] => 0
+    [ps_delete_cats] => 0
+    [ps_offer] => 0
+    [ps_get_enable] => 1
+    [vendor_id] => 1
+)
+
+[ERROR] Title: Кошельки; Src ID: 279; Message: Элемент с указанным именем уже существует у родительского элемента.
+Categories time: 0s
+Products started at: 2017-04-21 12:46:50
+Products time: 9s
+Finished at: 2017-04-21 12:47:12
+Elapsed time: 22s

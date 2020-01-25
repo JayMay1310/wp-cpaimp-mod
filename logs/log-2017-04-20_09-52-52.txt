@@ -1,0 +1,18 @@
+Started at: 2017-04-20 09:52:52
+Parameters: Array
+(
+    [add] => 
+    [categoryidFilter] => 
+    [categorypidFilter] => 931
+    [FilterPrice] => 
+    [FilterTitle] => 
+    [FilterVendor] => 
+    [offer] => so24
+    [vendor_id] => 1
+)
+
+Categories time: 1s
+Products started at: 2017-04-20 09:52:53
+Products time: 1359s
+Finished at: 2017-04-20 10:40:19
+Elapsed time: 2847s

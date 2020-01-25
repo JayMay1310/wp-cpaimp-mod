@@ -1,0 +1,30 @@
+Started clear filter at: 2017-04-23 14:01:57
+Parameters: Cpaimp_Importer Object
+(
+    [config:Cpaimp_Importer:private] => Array
+        (
+            [categoryidFilter] => 41
+            [categorypidFilter] => 
+            [FilterPrice] => 
+            [FilterTitle] => 
+            [FilterVendor] => 
+            [offer] => so24
+            [replace] => [1;2] [3;4] [5;6] [7;8]
+            [ps_delete_prod] => 0
+            [ps_delete_cats] => 0
+            [ps_offer] => 0
+            [ps_get_enable] => 1
+            [vendor_id] => 1
+        )
+
+)
+
+Filter clear category time: 0s Удалено товаров  0  Удалено категорий -  0
+Filter clear title time: 0s Delete title  0
+Filter clear vendor time: 0s Delete vendor  0
+Filter clear price time: 0s Delete price  0
+Затрачено времени на фильтр Parent Filter: 0s Удалено товаров -  0  Удалено категорий -  0
+Filter clear price time: 0s Delete price  0
+Категорий для импорта до обработки - 1   Категорий для импорта после обработки - 1
+Finished at: 2017-04-23 14:01:57 Товары для импорта до обработки - 50 Товары для импорта после обработки - 50
+Elapsed time: 0s

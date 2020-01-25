@@ -1,0 +1,22 @@
+Started at: 2017-04-21 12:37:01
+Parameters: Array
+(
+    [add] => 
+    [categoryidFilter] => 279
+    [categorypidFilter] => 
+    [FilterPrice] => 
+    [FilterTitle] => 
+    [FilterVendor] => 
+    [offer] => so24
+    [replace_find_text] => Кошелек Cash&Cards
+    [replace_text] => test
+    [ps_download_images] => 0
+    [ps_delete_prod] => 0
+    [ps_delete_cats] => 0
+    [ps_offer] => 0
+    [ps_get_enable] => 1
+    [vendor_id] => 1
+)
+
+Categories time: 0s
+Products started at: 2017-04-21 12:37:01

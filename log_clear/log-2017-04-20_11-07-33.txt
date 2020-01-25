@@ -1,0 +1,17 @@
+Started clear filter at: 2017-04-20 11:07:33
+Parameters: Cpaimp_Importer Object
+(
+    [config:Cpaimp_Importer:private] => Array
+        (
+            [add] => 
+            [categoryidFilter] => 
+            [categorypidFilter] => 254
+            [FilterPrice] => 
+            [FilterTitle] => 
+            [FilterVendor] => 
+            [offer] => so24
+            [vendor_id] => 1
+        )
+
+)
+

@@ -1,0 +1,17 @@
+Started at: 2017-04-25 12:23:42
+Parameters: Array
+(
+    [categoryidFilter] => 
+    [categorypidFilter] => 
+    [FilterPrice] => 
+    [FilterTitle] => BARAJAS II
+    [FilterVendor] => 
+    [offer] => so24
+    [replace] => [unit="US";	] [unit="EUR";	] [unit="";	]
+    [ps_delete_prod] => 0
+    [ps_delete_cats] => 0
+    [ps_offer] => 0
+    [ps_get_enable] => 1
+    [vendor_id] => 1
+)
+

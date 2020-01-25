@@ -1,0 +1,24 @@
+Started at: 2017-04-23 11:09:15
+Parameters: Array
+(
+    [categoryidFilter] => 
+    [categorypidFilter] => 31
+    [FilterPrice] => 
+    [FilterTitle] => 
+    [FilterVendor] => 
+    [offer] => so24
+    [replace_find_text] => 
+    [replace_text] => &nbsp; test2 test3 test4 test5
+    [ps_delete_prod] => 0
+    [ps_delete_cats] => 0
+    [ps_offer] => 0
+    [ps_get_enable] => 1
+    [vendor_id] => 1
+)
+
+Categories time: 13s
+Products started at: 2017-04-23 11:09:28
+XML file has no products!
+Products time: 0s
+Finished at: 2017-04-23 11:09:28
+Elapsed time: 13s

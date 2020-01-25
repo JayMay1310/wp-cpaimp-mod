@@ -1,0 +1,23 @@
+Started at: 2017-04-23 14:01:57
+Parameters: Array
+(
+    [categoryidFilter] => 41
+    [categorypidFilter] => 
+    [FilterPrice] => 
+    [FilterTitle] => 
+    [FilterVendor] => 
+    [offer] => so24
+    [replace] => [1;2] [3;4] [5;6] [7;8]
+    [ps_delete_prod] => 0
+    [ps_delete_cats] => 0
+    [ps_offer] => 0
+    [ps_get_enable] => 1
+    [vendor_id] => 1
+)
+
+[ERROR] Title: Шорты; Src ID: 41; Message: Элемент с указанным именем уже существует у родительского элемента.
+Categories time: 41s
+Products started at: 2017-04-23 14:02:38
+Products time: 26s
+Finished at: 2017-04-23 14:04:18
+Elapsed time: 141s

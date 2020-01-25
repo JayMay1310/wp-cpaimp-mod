@@ -1,0 +1,29 @@
+Started at: 2017-04-21 13:11:58
+Parameters: Array
+(
+    [categoryidFilter] => 279
+    [categorypidFilter] => 
+    [FilterPrice] => 
+    [FilterTitle] => 
+    [FilterVendor] => 
+    [offer] => so24
+    [replace_find_text] => Кошелек GOSHA
+    [replace_text] => test1 2345523235
+    [ps_download_images] => 0
+    [ps_delete_prod] => 0
+    [ps_delete_cats] => 0
+    [ps_offer] => 0
+    [ps_get_enable] => 1
+    [vendor_id] => 1
+)
+
+[ERROR] Title: 
+      <name>&#1055;&#1088;&#1086;&#1076;&#1091;&#1082;&#1090;&#1099;, &#1085;&#1072;&#1087;&#1080;&#1090;&#1082;&#1080;</name>
+      <id>45</id>
+    ; Src ID: 0; Message: Элемент с указанным именем уже существует у родительского элемента.
+Categories time: 0s
+Products started at: 2017-04-21 13:11:58
+XML file has no products!
+Products time: 0s
+Finished at: 2017-04-21 13:11:59
+Elapsed time: 1s

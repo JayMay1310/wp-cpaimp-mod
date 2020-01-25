@@ -1,0 +1,100 @@
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210832_1.jpg] Unable to write file to filesystem or file content is empty 7867
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210832_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210832_1.jpg] Unable to write file to filesystem or file content is empty 7866
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210832_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210832_1.jpg] Unable to write file to filesystem or file content is empty 7865
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210832_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158844_1.jpg] Unable to write file to filesystem or file content is empty 7864
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158844_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158844_1.jpg] Unable to write file to filesystem or file content is empty 7863
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158844_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158844_1.jpg] Unable to write file to filesystem or file content is empty 7862
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158844_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210832_1.jpg] Unable to write file to filesystem or file content is empty 7861
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210832_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210832_1.jpg] Unable to write file to filesystem or file content is empty 7860
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210832_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211082_1.jpg] Unable to write file to filesystem or file content is empty 7859
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211082_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211082_1.jpg] Unable to write file to filesystem or file content is empty 7858
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211082_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211082_1.jpg] Unable to write file to filesystem or file content is empty 7857
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211082_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211082_1.jpg] Unable to write file to filesystem or file content is empty 7856
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211082_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211082_1.jpg] Unable to write file to filesystem or file content is empty 7855
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211082_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210887_1.jpg] Unable to write file to filesystem or file content is empty 7854
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210887_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210887_1.jpg] Unable to write file to filesystem or file content is empty 7853
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210887_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210887_1.jpg] Unable to write file to filesystem or file content is empty 7852
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210887_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210887_1.jpg] Unable to write file to filesystem or file content is empty 7851
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210887_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002210887_1.jpg] Unable to write file to filesystem or file content is empty 7850
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002210887_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198819_1.jpg] Unable to write file to filesystem or file content is empty 7849
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198819_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198765_1.jpg] Unable to write file to filesystem or file content is empty 7848
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198765_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198765_1.jpg] Unable to write file to filesystem or file content is empty 7847
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198765_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198765_1.jpg] Unable to write file to filesystem or file content is empty 7846
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198765_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198765_1.jpg] Unable to write file to filesystem or file content is empty 7845
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198765_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198765_1.jpg] Unable to write file to filesystem or file content is empty 7844
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198765_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198819_1.jpg] Unable to write file to filesystem or file content is empty 7843
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198819_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198819_1.jpg] Unable to write file to filesystem or file content is empty 7842
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198819_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002198819_1.jpg] Unable to write file to filesystem or file content is empty 7841
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002198819_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158943_1.jpg] Unable to write file to filesystem or file content is empty 7840
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158943_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158943_1.jpg] Unable to write file to filesystem or file content is empty 7839
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158943_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158943_1.jpg] Unable to write file to filesystem or file content is empty 7838
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158943_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158899_1.jpg] Unable to write file to filesystem or file content is empty 7837
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158899_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158899_1.jpg] Unable to write file to filesystem or file content is empty 7836
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158899_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158899_1.jpg] Unable to write file to filesystem or file content is empty 7835
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158899_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158943_1.jpg] Unable to write file to filesystem or file content is empty 7834
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158943_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002158899_1.jpg] Unable to write file to filesystem or file content is empty 7833
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002158899_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002133728_1.jpg] Unable to write file to filesystem or file content is empty 7832
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002133728_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211037_1.jpg] Unable to write file to filesystem or file content is empty 7831
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211037_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002133773_1.jpg] Unable to write file to filesystem or file content is empty 7830
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002133773_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002133773_1.jpg] Unable to write file to filesystem or file content is empty 7829
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002133773_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211037_1.jpg] Unable to write file to filesystem or file content is empty 7828
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211037_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211037_1.jpg] Unable to write file to filesystem or file content is empty 7827
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211037_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211037_1.jpg] Unable to write file to filesystem or file content is empty 7826
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211037_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002211037_1.jpg] Unable to write file to filesystem or file content is empty 7825
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002211037_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002133773_1.jpg] Unable to write file to filesystem or file content is empty 7824
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002133773_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002133773_1.jpg] Unable to write file to filesystem or file content is empty 7823
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002133773_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002133773_1.jpg] Unable to write file to filesystem or file content is empty 7822
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002133773_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002072102_1.jpg] Unable to write file to filesystem or file content is empty 7821
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002072102_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002072102_1.jpg] Unable to write file to filesystem or file content is empty 7820
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002072102_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002072102_1.jpg] Unable to write file to filesystem or file content is empty 7819
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002072102_1.jpg
+[FILE: http://tvoe.ru/media/catalog/product/2/0/2000002072102_1.jpg] Unable to write file to filesystem or file content is empty 7818
+$localFilepath: C:\wamp\www\test1\wp-content\plugins\wp-cpaimp/downloads/2000002072102_1.jpg
